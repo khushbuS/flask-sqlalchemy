@@ -2,7 +2,7 @@
 Set of GET, PUT, DELETE, POST Rest api's developed using Flask and extensions Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy with best practices covering MVC architecture and tested on POSTMAN depicting an e-commerce stores and items data. This is a course project I created during an online course to enhance my knowledge on the subject.
 ### Set up a virtual environment parallel to the folder 'code' using following commands:
 
-## Intructions
+## Instructions
 
 ### Setting up the virtual environment and activating it.
 
